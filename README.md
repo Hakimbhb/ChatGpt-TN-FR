@@ -9,7 +9,7 @@
 <a href="https://instagram.com/hakim_bhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakim_bhb" height="30" width="40" /></a>
 </p>
 
-# ChatGPT TN
+# ChatGPT TN Francais
 
 
 
