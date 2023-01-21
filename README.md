@@ -23,6 +23,10 @@ My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would lik
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://about.me/hakim_bhb)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-ben-hadj-brahim-792024220)
 
+# Screenshots [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+ <img src="4B801F9A-D0C1-4699-9A3D-7E5A64EEE64E.png"  height="300" width="600"/><br>
+ <img src="2939DF3E-85E6-4C93-9F3C-E06888FF5345.png"  height="300" width="600"/><br>
+ <img src="CF5A0837-B299-4AE3-BED3-DA57AFD38E4B.jpeg"  height="500" width="300"/><br>
 
 ## Authors
 
