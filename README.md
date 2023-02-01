@@ -16,6 +16,8 @@
 ## Features
 
 Je présente un raccourci pour iPhone, Macbook et Apple Watch qui utilise les dernières mises à jour de l'API ChatGPT pour offrir des réponses vocales sophistiquées et plus de 500 mots. Le raccourci a été créé par Hakim Ben Hadj Brahim.
+## Update
+Cette mise à niveau corrige un bogue lié à l'enregistrement et à la sortie, prenant des résultats textuels allant de 550 mots jusqu'à 700 mots, ce qui en fait un outil encore plus puissant pour toute personne qui souhaite un accès rapide et facile aux capacités de communication et de traitement du texte bilingue.
 ## 🚀 About Me
 My name is Hakim ben hadj brahim  I am a student in Issat Mateur and I would like to share my project with others who could benefit from it. This project is designed to provide a much-needed service in life, and I am confident it can make a lasting impact.
  
